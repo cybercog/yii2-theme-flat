@@ -1,6 +1,6 @@
 Yii2  Flat Theme 
 ======================
-Theme for Yii2 Web Applicaiton
+Theme for Yii2 Web Applicaiton for yii2.0
 
 Installation
 ------------
